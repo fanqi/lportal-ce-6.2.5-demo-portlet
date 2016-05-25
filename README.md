@@ -1,2 +1,3 @@
 # lportal-ce-6.2.5-demo-portlet
-Liferay Portal CE 6.2.5 demo portletl
+## lifecycle portlet
+生命周期方法示例portlet
